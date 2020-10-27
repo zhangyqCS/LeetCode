@@ -14,6 +14,8 @@
 <div align=center><img src="https://tvax4.sinaimg.cn/large/006Ahf5Fly1gk3q2y1tllj30cs09odgj.jpg"></div>
 <div align=center>图1</div>
 
+[题解来源](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/mian-shi-ti-04-er-wei-shu-zu-zhong-de-cha-zhao-zuo/)
+
 #### 3. Code
 
 ```
